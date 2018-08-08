@@ -34,7 +34,7 @@ Your IBM Cloud Account and any services ordered from the IBM Cloud are provided 
 
 ### License for the IBM WebSphere Application Server Liberty Profile image
 {: #license_liberty_image}
-
+http://maninerd.com/
 The Dockerfile and associated scripts are licensed under the Apache License 2.0. The IBM JRE and IBM WebSphere® Application Server for Developers are licensed under the IBM International License Agreement for Non-Warranted Programs. You can view these licenses from the image by using the LICENSE=view environment variable as described previously, or you can find them online for IBM JRE and IBM WebSphere Application Server for Developers. This license does not permit further distribution.
 
 ## {{site.data.keyword.Bluemix_notm}} privacy policy
